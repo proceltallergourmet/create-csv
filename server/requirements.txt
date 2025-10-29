@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pytesseract
+pdfminer.six
+pypdf
+opencv-python
+sqlalchemy
+psycopg2-binary
+python-multipart
+pandas
